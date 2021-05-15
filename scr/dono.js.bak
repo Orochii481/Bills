@@ -1,0 +1,8 @@
+const dono = (prefix) => {
+
+	return `
+DONO: CAUSS
+}
+exports.dono = dono
+
+
