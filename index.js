@@ -10,6 +10,7 @@ const {
     Presence,
     Mimetype,
     GroupSettingChange
+}
 const { color, bgcolor } = require('./lib/color')
 const { help } = require('./src/help')
 const {help1} = require('./src/help1')
@@ -65,7 +66,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG:Lexa;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=5547992091566:+55 47 992091566\n' //Nomor whatsapp kamu
             + 'END:VCARD'
-prefix = '.' 
+prefix = '/' 
 blocked = []
 limitawal = '999999999'
 cr = '*Bills*'
