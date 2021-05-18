@@ -1,13 +1,8 @@
 const help = (pushname, prefix) => { 
 
 	return `
-
-    ─────────❶*Bills BOT*❷────────
-
-
-         (っ◕‿◕)っ Olá ${pushname}
-
-
+ ─────────❶*Bills BOT*❷────────
+(っ◕‿◕)っ Olá ${pushname}
 ┌─────────❶.❷────────
 ║
 ╠══〘 MENU 〙══
