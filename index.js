@@ -756,7 +756,6 @@ if (text.includes("placa"))
 
 	
 	
-	}
 	
 			if (messagesC.includes("but")){
 			client.updatePresence(from, Presence.composing)
