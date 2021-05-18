@@ -10,7 +10,6 @@ const {
     Presence,
     Mimetype,
     GroupSettingChange
-} = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
 const { help } = require('./src/help')
 const {help1} = require('./src/help1')
